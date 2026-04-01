@@ -143,11 +143,6 @@ button:active {
   transform: translate(100%);
 }
 
-.menu--open {
-  max-height: 100vh;
-  overflow: hidden;
-}
-
 .menu--open .menu__backdrop {
   visibility: visible;
   opacity: 1;
